@@ -1,0 +1,11 @@
+email: mark.c.mizen@gmail.com
+fullname: 'Mark Mizen'
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$aiXaTNeYZo9c8TxJw1fQt.zja.grWfPvnbzFZ0x79/S3.OmudmAzC

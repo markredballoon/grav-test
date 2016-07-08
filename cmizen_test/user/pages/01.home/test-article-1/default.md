@@ -1,0 +1,7 @@
+---
+title: 'Test Article 1'
+---
+
+This is a test article to see how easy it is to add a new article to the homepage.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam laoreet diam ac ullamcorper tristique. Etiam nec risus malesuada, condimentum nisi in, mattis urna. Phasellus venenatis, felis nec pretium sagittis, ante nisl auctor augue, nec laoreet felis est in ante. Nam in sodales justo. Integer sit amet justo lectus. Ut et fringilla ante. Suspendisse accumsan erat vitae imperdiet semper. Fusce at aliquet urna. Ut dignissim, turpis vitae dignissim suscipit, nisl arcu placerat nisl, non convallis nulla ex sed felis. Donec pharetra porta vulputate. Mauris non justo fermentum, faucibus orci ut, rutrum eros. Sed tempus tempus ante, nec ultrices enim ultrices sed.
